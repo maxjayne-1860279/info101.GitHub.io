@@ -1,5 +1,5 @@
 body {
-    background-image: url('baker.jpg');
+    background-image: url('https://ak5.picdn.net/shutterstock/videos/2488445/thumb/1.jpg');
 }
 
 h1 {
@@ -16,6 +16,7 @@ h1 {
     border:outset 10px blue;
     text-align:center;
     float: right;
+    background-color: whitesmoke;
 }
 
 ul {
