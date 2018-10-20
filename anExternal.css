@@ -13,8 +13,7 @@ h1 {
     margin-right: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-    border:solid 10px blue;
-    border-style: outset;
+    border:outset 10px blue;
     text-align:center;
     float: right;
 }
