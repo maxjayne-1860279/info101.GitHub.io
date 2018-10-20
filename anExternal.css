@@ -37,11 +37,11 @@ ul {
 }
 
 #pg1 p{
-    font-family: helvetica;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #pg2 p{
-    font-family: sans-serif;
+    font-family: helvetica;
 }
 
 #meme{
