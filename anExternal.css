@@ -24,6 +24,16 @@ ul {
     border-style: dotted;
 }
 
+#pg1 {
+    float: right;
+    width: 600px;
+}
+
+#pg2 {
+    float: right;
+    width: 600px;
+}
+
 #pg1 p{
     font-family: helvetica;
 }
@@ -34,10 +44,11 @@ ul {
 
 #meme{
     width: 400px;
-    height: 300px;
+    height: 200px;
     position: relative;
     text-align: center;
     color: darkred;
+    float: right;
 }
 
 #margins img{
@@ -45,4 +56,5 @@ ul {
     margin-right: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
+    float: right;
 }
